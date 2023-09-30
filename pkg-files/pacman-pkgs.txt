@@ -32,8 +32,6 @@ bluez-utils
 bridge-utils
 btrfs-progs
 celluloid
-cmatrix
-code
 cronie
 cups
 dialog
@@ -91,7 +89,6 @@ snap-pac
 snapper
 steam
 swtpm
-synergy
 terminus-font
 traceroute
 ttf-droid
